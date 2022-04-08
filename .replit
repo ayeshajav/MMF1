@@ -1,2 +1,2 @@
 language = "python3"
-run = "python v1ticket_loop.py"
+run = "python not_blank.py"
