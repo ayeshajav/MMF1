@@ -1,2 +1,2 @@
 language = "python3"
-run = "python not_blank.py"
+run = "python 03_number_checker.py"
