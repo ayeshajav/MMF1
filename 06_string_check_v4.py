@@ -23,13 +23,7 @@ def string_check(choice, options):
         return chosen 
     else:
         return "invalid choice"
-
-
-
-      
-      
-      
-      
+    
 #valid snacks holds list of all snacks
 #each item in valid snacks is a list with 
 #valid options for each snack <full name, letter code (a - e)
